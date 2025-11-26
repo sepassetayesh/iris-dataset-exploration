@@ -1,0 +1,8 @@
+# Data Manipulation & Analysis
+pandas
+numpy
+# Visualization
+matplotlib
+seaborn
+# Optional: For automatic dataset download 
+ucimlrepo
